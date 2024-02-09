@@ -1,5 +1,5 @@
 [package]
-name = "miller-shuffle-bin"
+name = "miller-shuffle-rs-bind"
 version = "0.1.0"
 edition = "2021"
 
